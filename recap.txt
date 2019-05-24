@@ -1,0 +1,2 @@
+First few lessons in Python and SQL
+There will be some tutorial lessons and simple projects
